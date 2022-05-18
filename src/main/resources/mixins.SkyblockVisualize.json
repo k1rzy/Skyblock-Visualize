@@ -1,0 +1,12 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.encodey.SkyblockVisualize.mixins",
+  "refmap": "mixins.SkyblockVisualize.refmap.json",
+  "mixins": [
+    "MixinGuiScreen",
+    "MixinGuiInventory"
+  ],
+  "client": [
+    
+  ]
+}
